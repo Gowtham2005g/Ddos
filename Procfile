@@ -1,1 +1,1 @@
-worker: python VAMPIRE.py
+worker: python3 VAMPIRE.py
