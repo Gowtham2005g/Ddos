@@ -1,0 +1,5 @@
+telebot
+pymongo
+aiohttp
+psutil
+python-telegram-bot
