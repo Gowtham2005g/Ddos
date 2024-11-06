@@ -1,1 +1,1 @@
-worker: python3 VAMPIRE.py
+worker: chmod +x * python3 VAMPIRE.py
